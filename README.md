@@ -4,3 +4,4 @@ Portfolio tracker to try to complete the free portion available on leetcode
 Going in numeric order
 
 Easy Completion:
+1,7,9
